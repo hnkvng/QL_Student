@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "formik": "^2.4.6",
+    "mui-file-input": "^4.0.5",
+    "yup": "^1.4.0"
+  }
+}
